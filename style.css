@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color:aquamarine
+}
+
+.user_design{
+    background: rgb(169, 135, 223);
+border-radius: 20px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+border-bottom: 10px solid #a344aa;
+border-right: 10px solid #447eaa;
+border-left: 10px solid #44aa86;
+width:500px;
+margin-left:465px;
+z-index:10;
+}

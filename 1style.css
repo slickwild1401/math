@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color:aquamarine
+}
+#output{
+    background:white;
+    border-radius:10px;
+    border-top:10px solid #AA4664;
+    padding: 10px;
+    float: none;
+    text-align:left;
+}
